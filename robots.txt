@@ -1,3 +1,0 @@
-﻿User-agent: *
-Host: usesite.ru
-Sitemap: http://usesite.ru/sitemap.xml
